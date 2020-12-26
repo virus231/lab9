@@ -7,3 +7,5 @@ aws ecs create-service --cluster fargate-cluster --service-name fargate-service 
 aws ecs list-services --cluster fargate-cluster
 
 aws ecs describe-services --cluster fargate-cluster --services fargate-service
+
+IP - http://52.59.40.7
